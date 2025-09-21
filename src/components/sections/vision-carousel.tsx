@@ -21,21 +21,24 @@ export function VisionCarousel() {
       title: "Our Vision",
       description: "To be Ethiopia's most trusted and innovative financial partner, empowering a generation to achieve their dreams.",
       am_title: "ራዕያችን",
-      am_description: "የኢትዮጵያ ყველაზე நம்பகமான እና ፈጠራ ያለው የገንዘብ አጋር በመሆን ትውልዱ ህልሙን እንዲያሳካ ማስቻል ነው።"
+      // am_description: "የኢትዮጵያ ყველაზე நம்பகமான እና ፈጠራ ያለው የገንዘብ አጋር በመሆን ትውልዱ ህልሙን እንዲያሳካ ማስቻል ነው።"
+      am_description: "በሚቀጥሉት አሥር ዓመታት በኢኮኖሚ እጅግ የበለጸገ እና ስራ ፈጣሪ አባላትን ገንብቶ ማየት፡፡ "
     },
     {
       icon: <Rocket className="h-10 w-10 text-primary" />,
       title: "Our Mission",
-      description: "To build a member-first cooperative that leverages technology to deliver intuitive, fair, and accessible financial tools for all Ethiopians.",
+      description: "To build a modern cooperative society that leverages technology to deliver convenient, responsive, and accessible financial tools that fulfill the needs of all our members.",
       am_title: "ተልዕኳችን",
-      am_description: "ለሁሉም ኢትዮጵያውያን ቀላል၊ ፍትሃዊ እና ተደራሽ የሆኑ የፋይናንስ መሳሪያዎችን ለማቅረብ ቴክኖሎጂን የሚጠቀም አባል-የመጀመሪያ የህብረት ሥራ ማህበር መገንባት።"
+      // am_description: "ለሁሉም ኢትዮጵያውያን ቀላል၊ ፍትሃዊ እና ተደራሽ የሆኑ የፋይናንስ መሳሪያዎችን ለማቅረብ ቴክኖሎጂን የሚጠቀም አባል-የመጀመሪያ የህብረት ሥራ ማህበር መገንባት።"
+      am_description: "ለሁሉም አባላት ምቹ ፣ ተደራሽ እና ቀልጣፋ የፋይናንስ አማራጮችን በዘመናዊ ቴክኖሎጂን ታግዞ በማቅረብ የአባላትን እና የደንበኞችን ፍላጎት ማሟላት የሚችል ዘመናዊ የኀብረት ሥራ ማህበር መገንባት።"
+      // am_description: "የሰለጠነ እና በስነምግባር የታነፀ የሰው ሃይል በማሟላት፤ ዘመናዊ ቴክኖሎጂን በመጠቀም ፣  ለህብረተሰቡ የፋይናንስ አጠቃቀም ተከታታይ ስልጠና በመስጠት ዘላቂነት ያለው ሁሉን አቀፍ የፋይናንስ ተቋም በመገንባት ምቹ ፣ ተደራሽ እና ቀልጣፋ የፋይናንስ አገልግሎት በመስጠት የአባላትን እና የደንበኞችን ፍላጎት ማሟላት ነው፡፡"
     },
     {
       icon: <Heart className="h-10 w-10 text-primary" />,
       title: "Our Values",
-      description: "Member-First, Integrity, Innovation, Inclusivity, and Excellence. These aren't just words; they are the principles that guide every decision we make.",
+      description: "Member-First, Integrity, Inclusivity, and Excellence. These aren't just words for us; they are the principles that guide every decision we make.",
       am_title: "እሴቶቻችን",
-      am_description: "አባል-መጀመሪያ፣ ታማኝነት፣ ፈጠራ፣ አካታችነት እና የላቀነት። እነዚህ ቃላት ብቻ አይደሉም፤ የምንወስዳቸውን እያንዳንዱን ውሳኔ የሚመሩ መርሆዎች ናቸው።"
+      am_description: "የአባላትን ፍላጎት ቀዳሚ ማድረግ ፣ ታማኝነት ፣ አካታችነት እና የላቀ የአገልግሎት ጥራት። እነዚህ ለእኛ ቃላት ብቻ አይደሉም ፤ ለምንወስዳቸውን እያንዳንዱን ውሳኔ የሚመሩ ጠንካራ መርሆች ናቸው።"
     }
   ];
 

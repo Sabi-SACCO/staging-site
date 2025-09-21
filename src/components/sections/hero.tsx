@@ -18,7 +18,6 @@ export function Hero() {
           alt="A vibrant community gathering in Ethiopia"
           fill
           className="object-cover"
-          data-ai-hint="ethiopian community vibrant"
           priority
         />
         <div className="absolute inset-0 bg-black/70" />

@@ -18,27 +18,21 @@ export function Faq() {
     {
       q: "What is a SACCO and how is it different from a bank?",
       a: "A SACCO (Savings and Credit Cooperative Organization) is a financial institution owned and controlled by its members. Unlike a bank that aims to make a profit for shareholders, a SACCO's primary goal is to provide affordable financial services to its members. Profits are often returned to members as dividends or used to offer better rates.",
-      am_q: "ሳኮ (SACCO) ምንድን ነው እና ከባንክ በምን ይለያል?",
-      am_a: "ሳኮ (የቁጠባ እና ብድር የህብረት ስራ ማህበር) በአባላቱ የተያዘ እና የሚተዳደር የገንዘብ ተቋም ነው። ለባለአክሲዮኖች ትርፍ ለማትረፍ ከሚሰራ ባንክ በተለየ የሳኮ ዋና ግብ ለአባላቱ ተመጣጣኝ የገንዘብ አገልግሎቶችን መስጠት ነው። ትርፉ ብዙውን ጊዜ ለአባላት እንደ ድርሻ ይመለሳል ወይም የተሻለ የወለድ ምጣኔ ለማቅረብ ያገለግላል።",
+      am_q: "የቁጠባ እና ብድር የኅብረት ስራ ማህበር (SACCO) ምንድን ነው? እና ከባንክ በምን ይለያል?",
+      am_a: "አንድ የገንዘብ ቁጠባ እና ብድር የኅብረት ስራ ማህበር በአባላቱ የተቋቋመ እና የሚተዳደር የፋይናንስ ተቋም ነው። ለባለአክሲዮኖች ትርፍ ለማትረፍ ከሚሰራ ባንክ በተለየ አንድ የገንዘብ ቁጠባና ብድር የኅብረት ስራ ማህበር ዋና ግብ ለአባላቱ ተመጣጣኝ ፋይናንስ አገልግሎቶችን መስጠት ነው። ትርፉ ብዙውን ጊዜ ለአባላት እንደ ድርሻ ይከፋፈላል ወይም የተሻለ የወለድ ምጣኔ ለማቅረብ ያገለግላል።",
     },
     {
-      q: "Who is eligible to join Sabi SACCO?",
+      q: "Who is eligible to join Sabi SACCO Ltd.?",
       a: "Sabi is being built for all aspiring Ethiopians, wherever you are. We are creating an inclusive community for creators, entrepreneurs, professionals, and anyone who believes in the power of cooperative finance. The primary requirement is sharing our vision for a modern, tech-powered financial future.",
-      am_q: "የሳቢ ሳኮ አባል መሆን የሚችለው ማነው?",
-      am_a: "ሳቢ በየትኛውም ቦታ ለሚገኙ φιλόδοξοι ኢትዮጵያውያን እየተገነባ ነው። ለፈጣሪዎች፣ ለስራ ፈጣሪዎች፣ ለባለሙያዎች እና በህብረት ስራ ፋይናንስ ሃይል ለሚያምን ማንኛውም ሰው አካታች ማህበረሰብ እየፈጠርን ነው። ዋናው መስፈርት የዘመናዊ፣ በቴክኖሎጂ የተደገፈ የገንዘብ የወደፊት ራዕያችንን መጋራት ነው።",
+      am_q: "የሳቢ የገንዘብ ቁጠባ እና ብድር የኅብረት ስራ ማህበር አባል መሆን የሚችለው ማነው?",
+      am_a: "ሳቢ በየትኛውም ቦታ ለሚገኙ ኢትዮጵያውያን እየተገነባ ነው። ለወጣቶች ፣ ለሴቶች ፣ ለስራ ፈጣሪዎች ፣ ለባለሙያዎች እና በህብረት ስራ ፋይናንስ ጉልበት ለሚያምን ማንኛውም ሰው አካታች የሆነ ተቋም እየፈጠርን ነው። ዋናው መስፈርት የዘመናዊ እና በቴክኖሎጂ የተደገፈ የገንዘብ ቁጠባ እና ብድር የህብረት ስራ ማህበር የመገምባት የወደፊት ራዕያችንን መጋራት ነው።",
     },
     {
       q: "What does it mean that Sabi is 'under formation'?",
       a: "It means we are in the active process of fulfilling all legal and regulatory requirements to become a fully licensed SACCO in Ethiopia. Early members who join now are considered founding members, giving them a unique opportunity to shape our direction, products, and community from the very beginning.",
       am_q: "ሳቢ 'በምስረታ ላይ ነው' ማለት ምን ማለት ነው?",
-      am_a: "ይህ ማለት በኢትዮጵያ ሙሉ ፈቃድ ያለው ሳኮ ለመሆን ሁሉንም ህጋዊ እና ቁጥጥር መስፈርቶች በማሟላት ሂደት ላይ ነን ማለት ነው። አሁን የሚቀላቀሉ ቀደምት አባላት እንደ መስራች አባላት ይቆጠራሉ、 ይህም አቅጣጫችንን፣ ምርቶቻችንን እና ማህበረሰባችንን ከጅምሩ ለመቅረጽ ልዩ እድል ይሰጣቸዋል።",
-    },
-    {
-      q: "How will my savings be protected?",
-      a: "Member savings are a top priority. Once we are fully licensed, we will operate under the regulatory framework of the relevant Ethiopian authorities, which includes provisions for protecting members' funds. We are committed to transparency and will provide detailed information on all security measures.",
-      am_q: "የኔ ቁጠባ እንዴት ይጠበቃል?",
-      am_a: "የአባላት ቁጠባ 최우선 ጉዳይ ነው። ሙሉ ፈቃድ ካገኘን በኋላ፣ በአግባብ ባላቸው የኢትዮጵያ ባለስልጣናት የቁጥጥር ማዕቀፍ ስር እንሰራለን፣ ይህም የአባላትን ገንዘብ ለመጠበቅ የሚያስچሉ ድንጋጌዎችን ያካትታል። ለግልጽነት ቁርጠኞች ነን እና በሁሉም የደህንነት እርምጃዎች ላይ ዝርዝር መረጃ እናቀርባለን።",
-    },
+      am_a: "ይህ ማለት በኢትዮጵያ ሙሉ ፈቃድ ያለው የገንዘብ ቁጠባ እና ብድር የኅብረት ስራ ማህበር ለመሆን ሁሉንም ህጋዊ መስፈርቶች በማሟላት ሂደት ላይ ነን ማለት ነው። አሁን የሚቀላቀሉ ቀደምት አባላት እንደ መስራች አባላት ይቆጠራሉ ይህም አቅጣጫችንን፣ ምርትና አገልግሎቶቻችንን ከጅምሩ ለመቅረጽ ልዩ እድል ይሰጣቸዋል።",
+    }
   ];
 
   return (
