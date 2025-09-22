@@ -1,8 +1,9 @@
 export const translations = {
   en: {
     joinNow: "Join Now",
-    heroTitle: "Innovative. Tech-powered. Cooperative Finance",
-    heroSubtitle: "Welcome to Sabi. We are a community of  tech-enabled cooperative organization for Ethiopia's next generation of creators, innovators, and leaders.",
+    // heroTitle: "Innovative. Tech-powered. Cooperative Finance",
+    heroTitle: "Modern. Responsive. Cooperative Finance",
+    heroSubtitle: "Welcome to Sabi. We are a community of ambitious and forward-thinking individuals who believe in the power of modern, innovative, tech-powered cooperative finance to change our lives for the better.",
     heroCta: "Become a Member",
     featuresTitle: "The next-gen Financial Partner",
     featuresSubtitle: "We’re building what we couldn’t find: a community-built financial institution that’s as ambitious and forward-thinking as you are.",
@@ -73,7 +74,7 @@ export const translations = {
   am: {
     joinNow: "አሁኑኑ ይቀላቀሉ",
     // heroTitle: "ዘመኑን ያገናዘበ ፣ ሳቢ የገንዘብ ቁጠባ እና ብድር አገልግሎት",
-    heroTitle: "ዘመናዊ ፣ ሳቢ ፣ የፋይናንስ አገልግሎት",
+    heroTitle: "ዘመናዊ ፣ ቀልጣፋ እና ሳቢ የሆነ የገንዘብ ቁጠባና ብድር አገልግሎት",
     heroSubtitle: "እንኳን ወደ ሳቢ በደህና መጡ። ሀገራችንን ተረካቢ ለሆኑ ስራ ፈጣሪዎች እየተገነባ ያለ የገንዘብ ቁጠባና ብድር ኀብረት ስራ ማህበር ነው።",
     heroCta: "ቀዳሚ አባል ይሁኑ",
     featuresTitle: "ዘመናዊ የፋይናንስ አጋር",
