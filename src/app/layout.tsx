@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sabi SACCO Ltd. | Modern Cooperative Finance",
     description:
-      "A community-built financial engine for Ethiopia's next generation.",
+      "A modern, community-built financial engine for Ethiopia's next generation.",
     url: "https://sabi-sacco.com", // Replace with your actual domain
     siteName: "Sabi SACCO Ltd.",
     images: [
